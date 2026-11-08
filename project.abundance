@@ -7,8 +7,8 @@
   "ioValues": [
     {
       "name": "",
-      "ioValue": 0,
-      "currentEquation": "0"
+      "ioValue": 451,
+      "currentEquation": "451"
     }
   ],
   "topLevel": true,
@@ -1847,7 +1847,7 @@
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 0
+          "ioValue": 451
         }
       ],
       "currentEquation": "-x"
@@ -1868,7 +1868,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": 0
+          "ioValue": -451
         },
         {
           "name": "zDist",
